@@ -50,7 +50,7 @@
 
 **Master’s in Telecommunications Engineering**, **Universidad Politécnica de Madrid (UPM)**, Spain  
 📍 2024–2026  
-📚 GPA: 3.31 / 4.00
+📚 GPA: 3.38 / 4.00
 
 **Bachelor’s in Telecommunication Technologies and Services**, **UPM**, Spain  
 📍 2020–2024  
