@@ -73,7 +73,6 @@
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=eriicom&theme=dark&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eriicom&layout=compact&theme=dark)](https://github.com/eriicom)
 [![Eric’s GitHub stats](https://github-readme-stats.vercel.app/api?username=eriicom&show_icons=true&theme=dark)](https://github.com/eriicom)
 
