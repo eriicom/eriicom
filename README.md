@@ -27,15 +27,14 @@
 ## 📌 About Me
 
 **Embedded Systems & AI Enthusiast**  
-**Intern at GMV (Feb 2024 – Oct 2024)**  
+**Intern at GMV (Nov 2023 – Jun 2024)**  
 - Developed secure-boot solutions for the NXP T2080QDS platform
 - Worked with low-level C, U-Boot, and FreeRTOS in secure environments
 - Assisted in board bring-up, firmware configuration, and system testing
 
-**Academic AI Projects (2024–Present)**  
+**AI Projects at Tragsatec (Dec 2024 – Jun 2025)**  
 - Prototyping lightweight ML models for microcontrollers and edge devices
 - Experimenting with reinforcement learning in simulation environments
-- Applying computer vision models for robotics and embedded cameras
 
 ---
 
