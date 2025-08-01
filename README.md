@@ -2,6 +2,11 @@
 
 [![GitHub](https://img.shields.io/badge/-EricMiguelOrdásMartín-black?style=flat-square&logo=github&logoColor=white)](https://github.com/[[tu_usuario]])  
 [![Open Source](https://badgen.net/badge/Open%20Source/Contributor/green)]()
+[![GitHub followers](https://img.shields.io/github/followers/eriicom?label=Follow&style=social)](https://github.com/eriicom)
+[![GitHub stars](https://img.shields.io/github/stars/eriicom?style=social)](https://github.com/eriicom)
+[![Profile views](https://komarev.com/ghpvc/?username=eriicom&color=blue)](https://github.com/eriicom)
+![Status](https://img.shields.io/badge/Building%20cool%20things-🚀-brightgreen)
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-ff69b4)](https://github.com/eriicom)
 
 - 🎓 Master's student in Telecommunications Engineering (UPM, 🇪🇸) and Engineering Science (Keio University, 🇯🇵)
 - 🤖 Exploring AI applications in embedded systems and robotics
@@ -65,19 +70,16 @@
 
 ---
 
-## 📌 Featured Projects
-
-🚧 New projects related to embedded AI and robotics are in progress — coming soon!
-
----
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[[tu_usuario]]&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eriicom&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eriicom&layout=compact&theme=dark)](https://github.com/eriicom)
+[![Eric’s GitHub stats](https://github-readme-stats.vercel.app/api?username=eriicom&show_icons=true&theme=dark)](https://github.com/eriicom)
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: [[eric44om@gmail.com]]
-- 🔗 LinkedIn: [[https://www.linkedin.com/in/eric-miguel-ord%C3%A1s-mart%C3%ADn-4b82671a4/]]
+- 📧 Email: eric44om@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/eric-miguel-ord%C3%A1s-mart%C3%ADn-4b82671a4/
