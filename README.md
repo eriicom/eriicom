@@ -8,10 +8,10 @@
 ![Status](https://img.shields.io/badge/Building%20cool%20things-🚀-brightgreen)
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-ff69b4)](https://github.com/eriicom)
 
-- 🎓 Master's student in Telecommunications Engineering (UPM, 🇪🇸) and Engineering Science (Keio University, 🇯🇵)
+- 🎓 Master's student in Telecommunications Engineering (UPM, 🇪🇸) and Engineering Science,Computer Vision and Biomedicine (Keio University, 🇯🇵)
 - 🤖 Exploring AI applications in embedded systems and robotics
 - 👨‍💻 Former intern at GMV working on secure-boot for T2080 embedded platforms
-- 🌱 Passionate about low-level systems, machine learning, and mobile development
+- 🌱 Passionate about low-level systems, machine learning, computer vision and mobile development
 - 💻 Tech Stack:
 
   ![C](https://img.shields.io/badge/-C-informational)  
@@ -47,6 +47,7 @@
 
 **Master’s in Engineering Science**, **Keio University**, Tokyo, Japan  
 📍 2025–2027
+📚 GPA: 4.00 / 4.00
 
 **Master’s in Telecommunications Engineering**, **Universidad Politécnica de Madrid (UPM)**, Spain  
 📍 2024–2026  
@@ -66,15 +67,7 @@
 - 📱 Mobile App Dev (Swift, SwiftUI)
 - 🛰️ Telecommunications, Signal Processing
 - ⚙️ Systems Programming (C/C++, Bash)
-- 📦 Tools: Git, Linux, Docker, LaTeX
-
----
-
-
-## 📈 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eriicom&layout=compact&theme=dark)](https://github.com/eriicom)
-[![Eric’s GitHub stats](https://github-readme-stats.vercel.app/api?username=eriicom&show_icons=true&theme=dark)](https://github.com/eriicom)
+- 📦 Tools: Git, Linux, Docker, LaTeX, CVAT
 
 ---
 
