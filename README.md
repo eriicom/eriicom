@@ -47,7 +47,6 @@
 
 **Master’s in Engineering Science**, **Keio University**, Tokyo, Japan  
 📍 2025–2027
-📚 GPA: 4.00 / 4.00
 
 **Master’s in Telecommunications Engineering**, **Universidad Politécnica de Madrid (UPM)**, Spain  
 📍 2024–2026  
